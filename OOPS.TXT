@@ -1,0 +1,43 @@
+OOPS
+machine language
+
+PROCEDURAL LANGUAGE:-
+
+function
+loops
+blocks
+switch statements
+
+OOP programming
+:- Real World Modelling
+:- Data security
+:- Highly scalable and reusable
+
+//CONCEPT OF CLASSES:-
+car(characteristics){
+    brand ;
+    model;
+    engine
+}
+behaviour{
+    start()
+    stop()
+    gearshift()
+}
+
+
+**ABSTRACTION**
+only show user what is required and what needed, ABSTRACTION hides unecessary details form the client and showcase only what is necessary.
+
+high level programming language:- are best example of ABSTRACTION
+
+
+Encapsulation:-{
+    characteristics and behaviour all should be in one CLASS
+
+    ABSTRACTION = data hiding
+    Encapsulation = data security
+    void setType(string tyre){
+        this->tyre = tyre;
+    }
+}
