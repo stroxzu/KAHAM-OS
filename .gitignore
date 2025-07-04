@@ -1,0 +1,8 @@
+/gcc-13.1.0/
+/opt/
+/build/
+/kernel/*.o
+/kernel/*.bin
+/boot/*.bin
+*.iso
+*.img
